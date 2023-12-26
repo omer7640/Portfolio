@@ -1,0 +1,29 @@
+{
+  "product": [
+    {
+      "id": 10001,
+      "name": "js masterclass",
+      "price": 29,
+      "in_stock": true
+    },
+
+    {
+      "id": 10002,
+      "name": "CSS expert",
+      "price": 16,
+      "in_stock": true
+    },
+    {
+      "id": 10003,
+      "name": " learning Bootstrap",
+      "price": 82,
+      "in_stock": false
+    },
+    {
+      "id": 10004,
+      "name": "MASTER NODE JS",
+      "price": 120,
+      "in_stock": true
+    }
+  ]
+}
